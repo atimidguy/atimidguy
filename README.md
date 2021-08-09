@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!snake](https://github.com/atimidguy/atimidguy/blob/output/github-snake.gif?raw=true)
+![snake](https://github.com/atimidguy/atimidguy/blob/output/github-snake.gif?raw=true)
